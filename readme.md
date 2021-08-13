@@ -1,4 +1,4 @@
-[Demo Here]()
+[Demo Here](https://jaspalsingh1998.github.io/Google-Maps-Clone/)
 
 ## About the project
 
@@ -11,4 +11,4 @@ I created this project to play around with Maps. The reason is there are alot of
 
 #### Screenshot
 
-![App Screenshot](./shot.png "App Screenshot")
+![App Screenshot](https://github.com/JaspalSingh1998/Google-Maps-Clone/blob/main/shot.PNG?raw=true "App Screenshot")
